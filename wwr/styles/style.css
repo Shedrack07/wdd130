@@ -17,7 +17,7 @@ nav a:hover {
     color: #d9c2a3;
 }    
    
-.icon {
+.logo {
     width: 80px;
 }
 
@@ -32,7 +32,5 @@ footer p {
      
 } 
 
-footer p a:hover {
-    text-decoration: underline;
-}
+
 
